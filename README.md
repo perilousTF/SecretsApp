@@ -82,7 +82,7 @@ CREATE TABLE users (
 );
 ```
 
-## Vk Environment Variables
+## Environment Variables
 Create a `.env` file in the root directory of your project and add the following keys:
 
 ```env
